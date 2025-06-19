@@ -5,7 +5,7 @@ export function Home() {
   return (
     <section className="h-screen flex flex-col justify-center items-center text-center px-4">
       <img
-        src="/profile.jpg"
+        src="/IMG_1450.jpeg"
         alt="Sandeep Undurthi"
         className="w-32 h-32 rounded-full border-4 border-teal-500 shadow-lg mb-4"
       />
