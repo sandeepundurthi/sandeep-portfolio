@@ -18,3 +18,4 @@ export function Home() {
     </section>
   );
 }
+
